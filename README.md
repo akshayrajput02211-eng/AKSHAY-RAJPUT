@@ -18,5 +18,7 @@ git pull --> for fetching code from the github repo
 1. git add .
 2. git commit -m "updated readme file"
 3. git push 
-4. git stash 
+
+## for code store into stack for fetching some code from origin
+1. git stash 
 
